@@ -1,0 +1,9 @@
+{
+  "name": "feeds",
+  "apiDependencies": [
+  {
+    "name": "feeds"
+  }
+]
+}
+

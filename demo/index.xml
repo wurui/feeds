@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../demo.xsl"?>
+<root>
+    <env>
+        <domain>local</domain>
+    </env>
+    <login>
+        <uid>git/wurui</uid>
+        <nick></nick>
+    </login>
+    <p>
+        <title>demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
+    <feeds ADAPTERID="25b2cacf797268552535086bc">
+        <i>
+            <_id>5b2cada397268552535086bd</_id>
+            <uid>git/wurui</uid>
+            <time>1529654580000</time>
+            <text>看到一只麻雀站在露台上，看了我两眼。我转过眼再看时，它已经不在了</text>
+            <resourcetype>none</resourcetype>
+        </i>
+        <i>
+            <_id>5b2cacf797268552535086bb</_id>
+            <uid>git/wurui</uid>
+            <time>1529654400000</time>
+            <text>杭州入梅，下个不停。不过倒是不热，呵呵呵。。。</text>
+            <resources>
+                <i>http://i.oxm1.cc/uploads/git/wurui/img/2ajw2sqgzTizgre5gtRi0sqM1b6i.jpg</i>
+            </resources>
+            <resourcetype>image</resourcetype>
+        </i>
+    </feeds>
+    </data>
+</root>
